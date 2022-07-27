@@ -33,3 +33,62 @@ https://drive.google.com/file/d/1uGd6Q5XIkNVFzbHS9ABXs7U2sCl7ZnoD/view?usp=shari
 https://drive.google.com/file/d/1iPue2LnHm2Oo0d7yH_rZY0cr028dxT1b/view?usp=sharing
 
 Processes module, for me new feature was immediately died processes.
+
+## Git Collaboration
+
+# Їдемо далі
+
+https://drive.google.com/file/d/1RBXE601aIlDshO1AEp0I9hcNUBr8V6vU/view?usp=sharing
+
+1. Detached Head
+I've already knew this material and I'm using this often, for example when reset or revert commits.
+
+2. Відносні посилання
+This material is also familiar.
+
+3. Відносні посилання
+Same (2 item)
+
+4. Відміна змін в Git
+This feature I'm use a lot. Especially, "reset" command.
+
+# Переміщуємо роботу туди сюди
+
+https://drive.google.com/file/d/1Qw7zyDv_Vs-Jh-ATduLNyE2dNX5GQU8H/view?usp=sharing
+
+1. Cherry pick
+I'm like this feature a lot. It's more useful for me than classic rebase.
+
+2. Interactive rebase
+Good addition to rebase.
+
+# Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes
+
+https://drive.google.com/file/d/1jYB3begMczl4pxJ4oYjqRimUBLrqcGo5/view?usp=sharing
+
+1. Push майстер
+It was kinda challenge practice task for me.
+
+2. Mердж з віддаленим репозиторієм
+After first task, it was easier.
+
+3. Слідкуємо за віддаленим репозиторієм
+This feature I'm also use a lot.
+
+4. Аргументи git push
+Watch item 3 description.
+
+5. Розширені аргументи git push
+It was a new feature for me. I'm going to use this a lot.
+
+6. Аргументи для fetch
+This topic is similar to previous.
+
+7. Нема джерела
+Watch item 5 description.
+
+8. Аргументи pull
+Cool practical end task with all topics which we've learnt.
+
+
+
