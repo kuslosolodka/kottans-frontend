@@ -90,5 +90,57 @@ Watch item 5 description.
 8. Аргументи pull
 Cool practical end task with all topics which we've learnt.
 
+## Intro to HTML and CSS
 
+# HTML
+1. Elements and Structure
+https://drive.google.com/file/d/1CtfWjC6VaFBLRpYSEYks9dsR4mOgkVDE/view?usp=sharing
 
+Basic information about HTML, which I'm using in every project
+
+2. Tables
+https://drive.google.com/file/d/1_kGa-tb-cBZXtDA7ozddZr71us8aQFhF/view?usp=sharing
+
+I don't work with tables in HTML, but this information was interesting to me
+
+3. Forms
+https://drive.google.com/file/d/1GI0yUD3EzVc6lqNjWuDV-M41MKImA-OO/view?usp=sharing
+
+This feature I'm using this also a lot
+
+4. Semantic HTML
+https://drive.google.com/file/d/1RVdWy4eBK3K3U4mY7eiJUyvbIkLOiWpT/view?usp=sharing
+
+HTML elements for more logic dividing page
+
+# CSS
+
+1. Syntax and Selectors
+https://drive.google.com/file/d/1j4CBTyG2iARSMO8vaqwVca8atQBszFwG/view?usp=sharing
+
+Beginner CSS information for basic understanding
+
+2. Visual Rules
+https://drive.google.com/file/d/1Ya_wLU9aSpv7Jb0hDMen684fRRaE4IeS/view?usp=sharing
+
+I knew this too
+
+3. The Box Model
+https://drive.google.com/file/d/1UZvITc8PSnocA4Bh50lcOl38VzShgeTJ/view?usp=sharing
+
+This feature I'm using in every project
+
+4. Display and Positioning
+https://drive.google.com/file/d/1W2wC9agDvWJ0lEyCHd9hXd9y2yEu9-ot/view?usp=sharing
+
+Also useful information
+
+5. Colors 
+https://drive.google.com/file/d/1Fwqa0Pycp2KiWpxleKdRimocVw4_978p/view?usp=sharing
+
+Variations of color in CSS. I'm using HEX often
+
+6. Typography
+https://drive.google.com/file/d/11CLE-yXILHAX5WcAH02IJW_PHnfoFnHk/view?usp=sharing
+
+Working with fonts. This also uses in every project.
