@@ -144,3 +144,32 @@ Variations of color in CSS. I'm using HEX often
 https://drive.google.com/file/d/11CLE-yXILHAX5WcAH02IJW_PHnfoFnHk/view?usp=sharing
 
 Working with fonts. This also uses in every project.
+
+## Responsive Web Design
+
+# Responsive web design basics
+https://drive.google.com/file/d/18bC6AKdLl5WTBVlaT0cpKS6WeF0IS7St/view?usp=sharing
+
+Good article for familiarization with responsive web design basics
+
+# Flexbox. Вчимося верстати на флексах
+https://drive.google.com/file/d/1SzwfI4Bfx6gqX4BAc06mfaX9hA9hV28Y/view?usp=sharing
+
+I've seen his videos in past. This man cool explain about web development.
+
+# Flexbox Froggy
+https://drive.google.com/file/d/1nbL-sWNG1SEGA0BNZ5ElCANnfpPXeol8/view?usp=sharing
+
+I like this practice game. Funny and simple, but some tasks may be difficult.
+
+# CSS Grid Layout
+https://drive.google.com/file/d/1XdY5hHRnjL8kY4AvuDULondgmoE6ZHCz/view?usp=sharing
+
+Same opinion as Flexbox topic
+
+# Grid Garden
+https://drive.google.com/file/d/1mbeJHSeuhuCgN1fhPKZps_9z9Dz6eo8b/view?usp=sharing
+
+This game was harder for me than froggy. Maybe, because grid feature was kinda unknowable for me.
+
+
