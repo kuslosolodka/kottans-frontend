@@ -172,4 +172,44 @@ https://drive.google.com/file/d/1mbeJHSeuhuCgN1fhPKZps_9z9Dz6eo8b/view?usp=shari
 
 This game was harder for me than froggy. Maybe, because grid feature was kinda unknowable for me.
 
+## JS Basics
+
+# Introduction to JS
+https://drive.google.com/file/d/1LK8ZKLjI_FaXaRiDH9A6c7Ss2c5E-D9n/view?usp=sharing
+
+https://drive.google.com/file/d/1YsFqt_ycr_TP1yPiYH4UJYU0bl7x3dzy/view?usp=sharing
+
+https://drive.google.com/file/d/14a-rx8sp4vvlttwWdvxlkY_cUujXHmO2/view?usp=sharing
+
+https://drive.google.com/file/d/1EWtUF0D3_D7zPRzNb-3X__rINYhblZ7H/view?usp=sharing
+
+I like how teacher explained material. Basic information for beginners. I don't like quizzes after chapters, because there are too short for me.
+
+
+# Basic JavaScript 
+https://drive.google.com/file/d/188RaEuXHGrMMax8IfjYnxv0dU286AIjf/view?usp=sharing
+
+This source perfect for practice and learning at the same time. I like concept and scrimba answers to questions
+# ES6 Challenges 
+https://drive.google.com/file/d/1sbqqjsM2-BnXLmSGLIMlibZElNkq8-Lz/view?usp=sharing
+
+This is also based information with practice in every lesson. ES6 feature I'm planning to use in future.
+# Basic Data Structures 
+https://drive.google.com/file/d/1YiMlgZU3pv9qLtmtjFb1ZKzSjVK0NZfx/view?usp=sharing
+
+Array, objects. Cool practice tasks. 
+# Basic Algorithm Scripting
+https://drive.google.com/file/d/1E0pQjr3pFheyw_PtNZhgzpL5fhIpoG5r/view?usp=sharing
+
+Some tasks were diffucult to me, others were easy. 
+# Functional Programming
+https://drive.google.com/file/d/1qjH8R3WX5CkGq4P2am1fv07fO6fZvNEc/view?usp=sharing
+
+I improved my map using skill. Like this chapter. 
+
+# Algorithm Scripting Challenges
+https://drive.google.com/file/d/1mGXxDJRTckQAJpCTbsxT2JaX_Q0-sUQ9/view?usp=sharing
+
+More diffucult tasks, it was kinda brainstorming.
+
 
