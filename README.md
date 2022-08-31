@@ -172,6 +172,10 @@ https://drive.google.com/file/d/1mbeJHSeuhuCgN1fhPKZps_9z9Dz6eo8b/view?usp=shari
 
 This game was harder for me than froggy. Maybe, because grid feature was kinda unknowable for me.
 
+## HTML-CSS-Practice
+[Demo](https://kuslosolodka.github.io/html-css-popup/) | [Code](https://github.com/kuslosolodka/html-css-popup.git)
+
+Code review was interesting experience for me. I liked tasks from my mentor, also doing popup was entertaining for HTML/CSS skills improving. 
 ## JS Basics
 
 # Introduction to JS
