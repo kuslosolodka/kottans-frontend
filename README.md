@@ -216,4 +216,12 @@ https://drive.google.com/file/d/1mGXxDJRTckQAJpCTbsxT2JaX_Q0-sUQ9/view?usp=shari
 
 More diffucult tasks, it was kinda brainstorming.
 
+# DOM
+*Coming soon*
+
+# A-Tiny-JS-World
+
+[Demo](https://kuslosolodka.github.io/a-tiny-JS-world/) | [Code](https://github.com/kuslosolodka/a-tiny-JS-world.git)
+
+I like this pre-oop task. It was interesting
 
